@@ -4,7 +4,7 @@
     
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/41ab5e5a-6a8a-4dc7-bf8f-6ca05c6f02b3" />
 
-
+# 🌈 NeonSync
 
 **Real-time Magic Home neon sign ↔ laptop screen color sync**
 
